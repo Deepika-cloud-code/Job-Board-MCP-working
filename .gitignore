@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+debug_*.txt
+.env
+CLAUDE.md
